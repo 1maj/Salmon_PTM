@@ -13,9 +13,7 @@ class CfgPatches
 			"cba_main_a3", 
 			"cba_settings"
 		};
-		requiredVersion=1.76;
-		units[]={};
-		weapons[]={};
+		requiredVersion=1.88;
 	};
 };
 class Extended_PreInit_EventHandlers
